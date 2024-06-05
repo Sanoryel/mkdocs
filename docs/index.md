@@ -15,3 +15,13 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     docs/
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
+
+Please see the [project license](license.md) for further details.
+
+Please see the [project license](../about/license.md) for further details.
+
+Please see the [project license](about.md#license) for further details.
+
+Cupcake indexer is a snazzy new project for indexing small cakes.
+
+![Screenshot](img/screenshot.png)

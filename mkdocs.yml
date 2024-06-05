@@ -1,5 +1,16 @@
-site_name: Precia Molen Documentation
+site_name: 'Precia Molen Documentation'
 nav:
-  - Home: index.md
-  - About: about.md
+  - Home: 'index.md'
+  - 'User Guide':
+    - 'Writing your docs': 'writing-your-docs.md'
+    - 'Styling your docs': 'styling-your-docs.md'
+  - About:
+    - 'License': 'license.md'
+    - 'Release Notes': 'release-notes.md'
 theme: readthedocs
+
+markdown_extensions:
+  - toc:
+      permalink: "#"
+      baselevel: 2
+      separator: "_"
